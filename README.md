@@ -1,4 +1,4 @@
-# End to End QA project
+# End to End QA chatbot
 
 <h2> enter the following command to run the code </h2>
 
