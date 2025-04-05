@@ -6,4 +6,4 @@
 
 # Output 
 
-![output_chatbot](https://github.com/Hetprajapati12/end-to-end-QAchatbot/blob/main/output_chatbot.jpg)
+![output_chatbot](https://github.com/Hetprajapati12/end-to-end-QAchatbot/blob/main/output_QAchatbot.png)
